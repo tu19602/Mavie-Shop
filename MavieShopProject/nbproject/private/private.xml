@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/daos/ProductDAO.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/Cart.jsp</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/dtos/Product.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/AddController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/EditController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/RegisterController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/DeleteController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/ManagerProduct.jsp</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/LoadController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/Footer.jsp</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/css/style.css</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/Left.jsp</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/Home.jsp</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/HomeController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/LogoutController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/CategoryController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/Detail.jsp</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/DetailController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/Menu.jsp</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/dtos/Account.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/LoginController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/SearchController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/css/manager.css</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/SearchByAjax.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/Login.jsp</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/web/Edit.jsp</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/dtos/Category.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/ManagerController.java</file>
+            <file>file:/D:/Study/PRJ301_3w/MavieShopProject/src/java/tunh/controllers/LoadMoreController.java</file>
+        </group>
+    </open-files>
+</project-private>
